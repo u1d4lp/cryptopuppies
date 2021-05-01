@@ -1,2 +1,1 @@
-# cryptopuppies
-cryptokitties-inspired nft collection game 
+# cryptodoggies-base
